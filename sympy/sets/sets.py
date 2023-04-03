@@ -996,8 +996,6 @@ class Interval(Set):
     Interval(0, 1)
     >>> Interval.Ropen(0, 1)
     Interval.Ropen(0, 1)
-    >>> Interval.Ropen(0, 1)
-    Interval.Ropen(0, 1)
     >>> Interval.Lopen(0, 1)
     Interval.Lopen(0, 1)
     >>> Interval.open(0, 1)
